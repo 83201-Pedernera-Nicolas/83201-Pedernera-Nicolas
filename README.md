@@ -7,7 +7,7 @@
 ## 📂 **Portfolio de Proyectos**  
 
 ### 🏠 **Prediccion de tendencia de precio de Bitcoin**  
-📌 **Descripción:** Analisis y entrenamiento de modelos para predecir la tendencia del precio de Bitcoin. Dashboard interactivo para utilizar modelo de predicción. 
+📌 **Descripción:** Analisis y entrenamiento de modelos para predecir la tendencia del precio de Bitcoin. Dashboard interactivo para utilizar modelo de predicción.  
 🛠 **Tecnologías:** Python, Pandas, Matplotlib, Random Forest, Tensorflow, FastApi, Streamlit  
 🔗 [Ver repositorio](https://github.com/83201-Pedernera-Nicolas/Prediccion_Tendencia_Bitcoin)  
 
