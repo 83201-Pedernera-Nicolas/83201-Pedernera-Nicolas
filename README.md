@@ -30,10 +30,11 @@
 📌 **Descripción:** Exploración y modelado de datos de bienes raices para entender patrones de precios y disponibilidad.  
 🛠 **Tecnologías:** Python, Pandas, Matplotlib, Random Forest  
 🔗 [Ver repositorio](https://github.com/83201-Pedernera-Nicolas/Prediccion_Precios_BR)  
+
 ---
 
-## 📫 **Conéctate conmigo**  
+## 📫 **Contactame**  
 💼 [LinkedIn](www.linkedin.com/in/nicolas-pedernera-2637611a5)  
 📧 [Email](mail:pederneranic15@gmail.com)  
 
-¡Gracias por visitar mi perfil! 🚀✨
+¡Gracias por visitar mi perfil! 🔥
