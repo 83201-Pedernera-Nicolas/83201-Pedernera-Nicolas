@@ -6,6 +6,11 @@
 
 ## 📂 **Portfolio de Proyectos**  
 
+### 🏠 **Prediccion de tendencia de precio de Bitcoin**  
+📌 **Descripción:** Analisis y entrenamiento de modelos para predecir la tendencia del precio de Bitcoin. Dashboard interactivo para utilizar modelo de predicción. 
+🛠 **Tecnologías:** Python, Pandas, Matplotlib, Random Forest, Tensorflow, FastApi, Streamlit  
+🔗 [Ver repositorio](https://github.com/83201-Pedernera-Nicolas/Prediccion_Tendencia_Bitcoin)  
+
 ### 🏠 **Análisis de Datos y predicción de Airbnb en Nueva York**  
 📌 **Descripción:** Exploración y modelado de datos de Airbnb para entender patrones de precios y disponibilidad.  
 🛠 **Tecnologías:** Python, Pandas, Matplotlib, Random Forest, XGBoost  
@@ -29,6 +34,6 @@
 
 ## 📫 **Conéctate conmigo**  
 💼 [LinkedIn](www.linkedin.com/in/nicolas-pedernera-2637611a5)  
-📧 [Email](mailto:pederneranic15@gmail.com)  
+📧 [Email](mail:pederneranic15@gmail.com)  
 
 ¡Gracias por visitar mi perfil! 🚀✨
