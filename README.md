@@ -35,6 +35,6 @@
 
 ## 📫 **Contactame**  
 💼 [LinkedIn](www.linkedin.com/in/nicolas-pedernera-2637611a5)  
-📧 [Email](mail:pederneranic15@gmail.com)  
+📧 [Email](mailto:pederneranic15@gmail.com)  
 
 ¡Gracias por visitar mi perfil! 🔥
